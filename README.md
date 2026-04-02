@@ -4,6 +4,8 @@ Python backend developer focused on building clean, efficient, and maintainable 
 
 * ⚙️ Tech: Python, FastAPI, Docker
 * 🧠 Approach: Clean Architecture, performance-first mindset
+* 💼 Freelancer on Upwork working on personal projects
+* 🚀 Favorite project: brainrot automation (proud of its structure & features)
 * 🤖 Exploring: practical AI usage in development
 * 🕸️ Experience: web scraping & data extraction
 
